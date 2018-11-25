@@ -1,5 +1,5 @@
-CREATE DATABASE <your development database name>
-WITH OWNER = <your local db user>;
+CREATE DATABASE TEST
+WITH OWNER = postgres;
 
-CREATE DATABASE <your test database name>
-WITH OWNER = <your local db user>;
+CREATE DATABASE LOL
+WITH OWNER = postgres;
